@@ -6,3 +6,6 @@ I HATE MY BOSS
 
 
 Diary Updated in main2
+This is getting appended with 
+CAT command
+I hope i remember thi command
